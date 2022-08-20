@@ -9,8 +9,8 @@
 + Analiza corespondențelor multiple <br />
 
 *TEHNOLOGIILE UTILIZATE:*  <br />
-֍ Limbajul de programare – Python <br />
-֍ Mediul de dezvoltare – PyCharm <br />
+֍ Limbajul de programare – **Python** <br />
+֍ Mediul de dezvoltare – **PyCharm** <br />
 
 *CERINȚELE PROIECTULUI:* <br />
 ֍ În funcție de setul de date selectat, de tipul de analiză care urmează să fie efectuată și de obiectivele stabilite pentru analiză, trebuie utilizată în mod corespunzător una dintre metodele de analiză a datelor menționate mai sus. <br />
